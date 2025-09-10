@@ -6,3 +6,5 @@ result = x+y;
 
 This is some more code
 adsfa
+
+my feature 2 update
